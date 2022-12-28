@@ -4,6 +4,7 @@
 #include <string.h>
 #define Max_size 23
 
+
 typedef struct node//structure node for courses in this program.
 {
     char Course [50];//Course name.
