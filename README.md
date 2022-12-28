@@ -1,1 +1,1 @@
-# -OsaidHamza7-COMP2421-Data-Structure-Algorithms
+# -COMP2421-Data-Structure-Algorithms
