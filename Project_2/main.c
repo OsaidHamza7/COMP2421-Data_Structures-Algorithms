@@ -5,6 +5,7 @@
 #define Max_Size 500
 
 
+
 typedef struct node1//structure for  node1 for topics in courses.
 {
     char topic[50];//Array of characters (string) for topic.
