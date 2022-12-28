@@ -5,6 +5,7 @@
 // Student ID:1200875
 // Section:1
 
+
 typedef struct node1  //creat a struct type of passenger
 {
     int id;
