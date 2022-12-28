@@ -1,0 +1,4 @@
+prgrami:2#AAM1#Computer Science/pro1, pro2, propr
+Introduction to French:3#FREN111#French Language/letters, numbers, greetings, grammars, statements 
+
+Information:5#INFO111#French Language/topc1, topc2
