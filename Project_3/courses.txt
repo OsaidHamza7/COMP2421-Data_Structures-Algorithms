@@ -1,0 +1,5 @@
+prgrami:2#AAM1#Computer Science/prog1,prog2,prog3,prog4,prog5,prog6,prog7,prog8,prog10,prog11
+Introduction to programming:3#COMP133#Computer Science/cs1,cs2,cs3,cs4
+Data structures:4#COMP2421#Computer Science/data1,data2
+Enlgish:2#ENEE#english/englis1,engils2
+Introduction to French:3#FREN111#French Language/fr1,fr2,fr3
