@@ -1,1 +1,1 @@
-# COMP2421-Data Structure & Algorithms
+# COMP2421-Data Structures & Algorithms
